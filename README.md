@@ -1,2 +1,1 @@
-# DJESprecursohenryDJES
-DJESprecurso de henry DJES
+DJES prueba de como crear un repositorio y clonar desde github a mi computadora.
